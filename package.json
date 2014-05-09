@@ -1,0 +1,24 @@
+{
+	"name": "dgeni-x",
+	"version": "0.0.1",
+	"description": "Sandbox for testing with dgeni",
+	"author": "Nate-Wilkins",
+	"repository": {
+		"type": "git",
+		"url": "https://"
+	},
+	"keywords": [],
+	"dependencies": {
+		"chalk": "*",
+		"async": "*",
+		"load-grunt-tasks": "*",
+
+		"dgeni": "*",
+		"dgeni-packages": "*",
+		
+		"grunt": "*",
+		"grunt-eslint": "*"
+	},
+	"scripts": { "test": "grunt test" },
+	"bugs": { "url": "https://" }
+}
