@@ -1,0 +1,17 @@
+{
+  "name": "dgeni-x",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Nate-Wilkins/dgeni-x",
+  "authors": [
+    "Nate Wilkins <nwilkins2012@gmail.com>"
+  ],
+  "description": "Sandbox",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "moment": "~2.6.0"
+  }
+}

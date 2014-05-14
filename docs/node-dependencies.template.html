@@ -1,0 +1,8 @@
+<div>
+	{% for dep in doc.dependencies %}
+	<div>
+		<a href="{$ dep.repository.url $}">{$ dep.name $}@{$ dep.version $}</a>
+		<div>{$ dep.description $}</div>
+	</div>
+	{% endfor %}
+</div>
